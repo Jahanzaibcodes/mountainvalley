@@ -594,6 +594,9 @@ footer .footer-wrap {
 .inb {
   color: black;
 }
+.inb p{
+  padding-top: 1rem;
+}
 .widgetFooter {
   width: calc(85% / 3);
   height: auto;
