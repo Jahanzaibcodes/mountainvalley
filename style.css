@@ -698,6 +698,20 @@ div.footerCopy {
   .widgetFooter:not(:nth-of-type(2)) {
     text-align: left;
   }
+  .about {
+    height: 48vh;
+    width: 100%;
+    display: flex;
+    margin-top: -10rem;
+  }
+}
+@media (max-width: 380px) {
+  .about {
+    height: 79vh;
+    width: 100%;
+    display: flex;
+    margin-top: 0;
+  }
 }
 @media (max-width: 500px) {
   footer {
