@@ -672,7 +672,7 @@ div.footerCopy {
 
 @media (max-width: 800px) {
   footer {
-    height: 40vh;
+    height: 50vh;
     /* margin-top: 11rem; */
   }
   footer .footer-wrap {
