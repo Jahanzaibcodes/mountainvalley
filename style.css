@@ -436,11 +436,12 @@ img {
     width: 100%;
   }
   .home_para {
-    width: 100%;
+    width: 90%;
   }
   .main_home {
     background: none;
     height: 172vh;
+    width: 100%;
   }
 }
 
