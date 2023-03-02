@@ -471,7 +471,7 @@ img {
   padding: 2rem;
 }
 .portofolio {
-  height: 100vh;
+  /* height: 100vh; */
   width: 100%;
   text-align: center;
   margin-top: 3rem;
@@ -538,12 +538,17 @@ img {
 .input input {
   padding: 1.1rem;
 }
+@media screen and (max-width: 380px) {
+  footer {
+    height: 50vh;
+  }
+}
 @media screen and (max-width: 860px) {
   .video {
     height: 0;
   }
   .portofolio {
-    height: 170vh;
+    /* height: 188vh; */
   }
   .div12 {
     width: 100%;
@@ -594,7 +599,7 @@ footer .footer-wrap {
 .inb {
   color: black;
 }
-.inb p{
+.inb p {
   padding-top: 1rem;
 }
 .widgetFooter {
@@ -667,7 +672,8 @@ div.footerCopy {
 
 @media (max-width: 800px) {
   footer {
-    height: 50vh;
+    height: 40vh;
+    /* margin-top: 11rem; */
   }
   footer .footer-wrap {
     width: 100%;
