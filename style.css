@@ -711,7 +711,8 @@ div.footerCopy {
     height: 79vh;
     width: 100%;
     display: flex;
-    margin-top: 0;
+    margin-top: 4rem;
+    margin-bottom: -6rem;
   }
 }
 @media (max-width: 500px) {
