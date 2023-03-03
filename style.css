@@ -706,7 +706,7 @@ div.footerCopy {
     margin-top: -10rem;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 410px) {
   .about {
     height: 79vh;
     width: 100%;
